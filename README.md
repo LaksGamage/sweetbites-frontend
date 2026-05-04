@@ -17,7 +17,7 @@
 
 
 ## 📸 Preview
-![image alt]([./screenshots/navbar.png](https://github.com/LaksGamage/sweetbites-frontend/blob/ce25e5f1fb3ffd571a984a471d8757efbd9070cc/day1.png)
+![image alt](https://github.com/LaksGamage/sweetbites-frontend/blob/ce25e5f1fb3ffd571a984a471d8757efbd9070cc/day1.png)
 
 
 
