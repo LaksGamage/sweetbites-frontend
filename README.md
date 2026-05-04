@@ -17,9 +17,7 @@
 
 
 ## 📸 Preview
-<p align="center">
-  <img src="D:\MERN\SweetBites\client\src\screenshots" width="600"/>
-</p>
+
 
 
 
