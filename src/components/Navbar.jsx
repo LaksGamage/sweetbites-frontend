@@ -24,8 +24,8 @@ const Navbar = () => {
                 </svg>
             </NavLink>
 
-            {/* Desktop Menu */}
-            <div className="hidden sm:flex items-center gap-8">
+            {/* Desktop Menu */} {/* main links */}
+            <div className="hidden sm:flex items-center gap-8"> 
                 <NavLink to='/'>Home</NavLink>
                 <NavLink to='/products'>All Products</NavLink>
                 <NavLink to='/'>Contact</NavLink>
