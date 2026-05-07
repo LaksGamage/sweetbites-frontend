@@ -46,3 +46,21 @@
 ## 📸 Preview
 ![image alt](https://github.com/LaksGamage/sweetbites-frontend/blob/5c00ca92729b2a4ed0f53735a98fb046f1657592/day2.png)
 
+
+
+
+## 🚀 Day 3 & Day 4 Progress
+- added background banner
+- added navigation buttons
+
+
+
+## 🛠️ Tech Stack
+- React
+- Vite
+- Tailwind CSS
+
+
+
+## 📸 Preview
+![image alt]("D:\MERN\SweetBites\client\day3.png")
