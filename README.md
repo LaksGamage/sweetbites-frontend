@@ -53,11 +53,12 @@
 - added background banner
 - added navigation buttons
 
+## 📸 Preview
+![image alt](
+https://github.com/LaksGamage/sweetbites-frontend/blob/ece411ff8c06e8f9a03629971fe8ccdfb1535e55/day3.png)
 
 
-## 🛠️ Tech Stack
-- React
-- Vite
+
 - Tailwind CSS
 
 
