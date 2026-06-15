@@ -57,11 +57,3 @@
 ![image alt](
 https://github.com/LaksGamage/sweetbites-frontend/blob/ece411ff8c06e8f9a03629971fe8ccdfb1535e55/day3.png)
 
-
-
-- Tailwind CSS
-
-
-
-## 📸 Preview
-![image alt]("D:\MERN\SweetBites\client\day3.png")
