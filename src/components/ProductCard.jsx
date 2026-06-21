@@ -21,7 +21,7 @@ const ProductCard = () => {
             <div className="text-gray-500/60 text-sm">
                 <p>{product.category}</p>
                 <p className="text-gray-700 font-medium text-lg truncate w-full">{product.name}</p>
-                <div className="flex items-center gap-0.5">
+                {/*<div className="flex items-center gap-0.5">
                     {Array(5).fill('').map((_, i) => (
                         product.rating > i ? (
                             <svg key={i} width="14" height="13" viewBox="0 0 18 17" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -34,7 +34,7 @@ const ProductCard = () => {
                         )
                     ))}
                     <p>({product.rating})</p>
-                </div>
+                </div> */}
                 <div className="flex items-end justify-between mt-3">
                     <p className="md:text-xl text-base font-medium text-indigo-500">
                         ${product.offerPrice} <span className="text-gray-500/60 md:text-sm text-xs line-through">${product.price}</span>
